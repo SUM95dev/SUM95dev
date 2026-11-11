@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**SUM95dev/SUM95dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hardware & Software Developer
 
-Here are some ideas to get you started:
+I'm interested in computer architecture, embedded systems, hardware acceleration, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Programming**
+- C / C++
+- Python
+
+**Embedded Systems**
+- ESP32
+- STM32
+- ARM
+- Embedded Linux
+
+**Hardware & FPGA**
+- FPGA Development
+- Verilog HDL
+- RTL Design
+- Xilinx Vivado
+- NPU Architecture
+
+**Web Development**
+- Web Design
+- Frontend Development
+
+**Operating Systems & Security**
+- Linux / Ubuntu
+- Networking
+- Ethical Hacking
+
+## 🚀 Projects
+
+- Sam NPU — FPGA-based Neural Processing Unit
+- Embedded Systems Projects
+- FPGA & Digital Design Experiments
+
+## 🎯 Interests
+
+- CPU Architecture
+- Processor Design
+- AI Accelerators
+- Computer Engineering
+- Open Source Hardware
