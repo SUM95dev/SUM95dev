@@ -1,2 +1,0 @@
-FAIL Conv memory timeout
-verification/extra/tb_conv_memory_stall.v:33: $finish called at 10000000 (1ps)
